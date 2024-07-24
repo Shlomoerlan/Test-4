@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\TestProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|c:\\users\\1\\source\\repos\\testproject\\testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|solutionrelative:testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|c:\\users\\1\\source\\repos\\testproject\\testproject\\service\\datesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|solutionrelative:testproject\\service\\datesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|c:\\users\\1\\source\\repos\\testproject\\testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|solutionrelative:testproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|c:\\users\\1\\source\\repos\\testproject\\testproject\\model\\datesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|solutionrelative:testproject\\model\\datesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|c:\\users\\1\\source\\repos\\testproject\\testproject\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C91AA1-365E-4895-903F-1B40A08D8C76}|TestProject\\TestProject.csproj|solutionrelative:testproject\\configuration\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TestProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Form1.cs",
+              "RelativeToolTip": "TestProject\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:22:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatesService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Service\\DatesService.cs",
+              "RelativeDocumentMoniker": "TestProject\\Service\\DatesService.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Service\\DatesService.cs",
+              "RelativeToolTip": "TestProject\\Service\\DatesService.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAHsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:00:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatesModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Model\\DatesModel.cs",
+              "RelativeDocumentMoniker": "TestProject\\Model\\DatesModel.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Model\\DatesModel.cs",
+              "RelativeToolTip": "TestProject\\Model\\DatesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:58:15.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Configuration\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "TestProject\\Configuration\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Configuration\\AppConfiguration.cs",
+              "RelativeToolTip": "TestProject\\Configuration\\AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:55:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Form1.cs",
+              "RelativeDocumentMoniker": "TestProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TestProject\\TestProject\\Form1.cs [Design]",
+              "RelativeToolTip": "TestProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:46:02.981Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

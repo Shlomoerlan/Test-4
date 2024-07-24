@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<queries>
+  <query>
+    <Day>ראשון</Day>
+    <DayMonth>4</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ד</Year>
+    <result>באחד בשבת ארבעה ימים  לירח תשרי שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+  <query>
+    <Day>שני</Day>
+    <DayMonth>17</DayMonth>
+    <Month>מרחשון</Month>
+    <Year>תשפ"ח</Year>
+    <result>בשני בשבת שבעה עשר יום לירח מרחשון שנת חמשת אלפים ושבע מאות ושמנים ושמנה לבריאת העולם</result>
+  </query>
+  <query>
+    <Day>שלישי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>תשרי</Month>
+    <Year>תש"צ</Year>
+    <result>בשלישי בשבת יום שלשים לירח תשרי שנת חמשת אלפים ושבע מאות ותשעים לבריאת העולם</result>
+  </query>
+  <query>
+    <Day>שני</Day>
+    <DayMonth>30</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תש"צ</Year>
+    <result>בשני בשבת טבת יום שלשים שהוא ראש חודש לירח כסלו שנת חמשת אלפים ושבע מאות ותשעים לבריאת העולם</result>
+  </query>
+  <query>
+    <Day>ראשון</Day>
+    <DayMonth>30</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשפ"ד</Year>
+    <result>באחד בשבת יום שלשים שהוא ראש חודש טבת לירח כסלו שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+  <query>
+    <Day>שני</Day>
+    <DayMonth>17</DayMonth>
+    <Month>טבת</Month>
+    <Year>תשפ"ד</Year>
+    <result>בשני בשבת שבעה עשר יום לירח טבת שנת חמשת אלפים ושבע מאות ושמנים וארבע לבריאת העולם</result>
+  </query>
+</queries>
